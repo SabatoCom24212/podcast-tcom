@@ -3,6 +3,10 @@
 Generá tu propio podcast en español rioplatense a partir de un guion de texto y una pista musical de fondo. El pipeline sintetiza voz con **Chatterbox Multilingual TTS** (voces argentinas reales del dataset [ylacombe/google-argentinian-spanish](https://huggingface.co/datasets/ylacombe/google-argentinian-spanish)), aplica fonetización automática del yeísmo porteño y mezcla el audio final con tu música.
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SabatoCom24212/podcast-tcom/blob/main/podcast_tcom.ipynb)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![CUDA](https://img.shields.io/badge/CUDA-12.4-76B900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Datasets-argentinian--spanish-FFD21F)](https://huggingface.co/datasets/ylacombe/google-argentinian-spanish)
+[![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3-F55036?logo=groq&logoColor=white)](https://console.groq.com)
 ---
 
 ## ¿Qué hace este proyecto?
