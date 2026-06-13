@@ -4,8 +4,6 @@ Generá tu propio podcast en español rioplatense a partir de un guion de texto 
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SabatoCom24212/podcast-tcom/blob/main/podcast-tcom.ipynb)
 
-> **Reemplazá** `TU_USUARIO/TU_REPO` con tu usuario y nombre de repositorio de GitHub antes de publicar.
-
 ---
 
 ## ¿Qué hace este proyecto?
